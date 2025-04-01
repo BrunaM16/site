@@ -1,0 +1,219 @@
+.frame {
+    background-color: #eaf7f8;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .div {
+    background-color: #eaf7f8;
+    width: 1812px;
+    height: 1188px;
+    position: relative;
+  }
+  
+  .frame .overlap-group {
+    position: absolute;
+    width: 1812px;
+    height: 178px;
+    top: 0;
+    left: 0;
+    background-color: #4cadbb;
+  }
+  
+  .frame .logo-sem-marca {
+    position: absolute;
+    width: 178px;
+    height: 178px;
+    top: 0;
+    left: 64px;
+    object-fit: cover;
+  }
+  
+  .frame .text-wrapper {
+    left: 649px;
+    position: absolute;
+    top: 60px;
+    font-family: "Abhaya Libre-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-2 {
+    left: 1369px;
+    position: absolute;
+    top: 60px;
+    font-family: "Abhaya Libre-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-3 {
+    position: absolute;
+    top: 60px;
+    left: 1038px;
+    font-family: "Abhaya Libre-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .overlap {
+    position: absolute;
+    width: 1812px;
+    height: 141px;
+    top: 1047px;
+    left: 0;
+    background-color: #4cadbb;
+  }
+  
+  .frame .img {
+    position: absolute;
+    width: 108px;
+    height: 108px;
+    top: 27px;
+    left: 64px;
+    object-fit: cover;
+  }
+  
+  .frame .image {
+    width: 98px;
+    height: 98px;
+    top: 32px;
+    left: 1522px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-2 {
+    position: absolute;
+    width: 88px;
+    height: 88px;
+    top: 37px;
+    left: 1656px;
+    object-fit: cover;
+  }
+  
+  .frame .overlap-2 {
+    position: absolute;
+    width: 1419px;
+    height: 842px;
+    top: 205px;
+    left: 43px;
+  }
+  
+  .frame .rectangle {
+    position: absolute;
+    width: 1417px;
+    height: 842px;
+    top: 0;
+    left: 2px;
+    background-color: #9fd2e6;
+    border-radius: 2px;
+  }
+  
+  .frame .image-3 {
+    width: 815px;
+    height: 525px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .o-ciclo-da-gua {
+    position: absolute;
+    width: 575px;
+    top: 26px;
+    left: 838px;
+    font-family: "Abhaya Libre-Regular", Helvetica;
+    font-weight: 400;
+    color: #006ab6;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .span {
+    font-family: "Abhaya Libre-Regular", Helvetica;
+    font-weight: 400;
+    color: #006ab6;
+    font-size: 24px;
+    letter-spacing: 0;
+  }
+  
+  .frame .text-wrapper-4 {
+    font-family: "Abhaya Libre-Bold", Helvetica;
+    font-weight: 700;
+  }
+  
+  .frame .INFILTRA-o-quando-a {
+    position: absolute;
+    width: 375px;
+    top: 567px;
+    left: 21px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-5 {
+    font-weight: 700;
+    color: #006ab6;
+  }
+  
+  .frame .text-wrapper-6 {
+    font-family: "Abhaya Libre-Regular", Helvetica;
+    color: #006ab6;
+  }
+  
+  .frame .TRANSPIRA-o-a-gua {
+    position: absolute;
+    width: 349px;
+    top: 557px;
+    left: 427px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .div-wrapper {
+    position: absolute;
+    width: 300px;
+    height: 821px;
+    top: 211px;
+    left: 1492px;
+    background-color: #9fd2e6;
+  }
+  
+  .frame .text-wrapper-7 {
+    position: absolute;
+    top: 343px;
+    left: 92px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
